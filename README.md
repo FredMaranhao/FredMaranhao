@@ -1,5 +1,6 @@
-### Hi there 👋
-
+- I'm system Analyst and Math teacher
+- I contribute to Debian Project
+- I help people in learn how to ride a bike
 <!--
 **FredMaranhao/FredMaranhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
